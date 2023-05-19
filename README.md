@@ -24,5 +24,5 @@ Currently deep-diving into the intriguing worlds of Active Directory (AD) and Ma
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=maindavis&show_icons=true&locale=en" alt="maindavis" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maindavis&show_icons=true&locale=en&layout=compact" alt="maindavis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=maindavis&show_icons=true&locale=en&theme=gotham" alt="maindavis"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maindavis&show_icons=true&locale=en&layout=compact&theme=gotham" alt="maindavis" /></p>
